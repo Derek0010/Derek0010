@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**Derek0010/Derek0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Programmer Analyst undergraduate at Wayne State College
+💻 Interested in Software Development
+🌱 Currently learning HTML and C++
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a Freshmen undergraduate studying computer programming at Wayne.
+
+I'm interested in application programming or web development. I enjoy building games in pygame and I'm currently working on improving my skills in HTML, CSS, and C++.
+
+* 🔭 Currently working on: A small pygame based game
+* 🌱 Currently learning: C++ and HTML
+* 🎯 Goal: Learn and build programs in C++
+* 💡 Interested in: Python / Game Development
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+
+`Python` • `C++` • `HTML` • `CSS`
+
+### Tools & Technologies
+
+`Git` • `GitHub` • `Linux` • `VS Code`
+
+---
+
+## 📚 Currently Learning
+
+* C++
+* HTML and CSS
+
+---
+
+## 🎓 Education
+
+Programmer Analyst
+Wayne State College
+2026 – 2030
+
+---
+
+⭐ Thanks for visiting my profile!
