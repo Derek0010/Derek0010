@@ -1,8 +1,8 @@
 # Hi, I'm Derek Nelson 👋
 
-🎓 Programmer Analyst undergraduate at Wayne State College
-💻 Interested in Software Development
-🌱 Currently learning HTML and C++
+- 🎓 Programmer Analyst undergraduate at Wayne State College  
+- 💻 Interested in Software Development  
+- 🌱 Currently learning HTML and C++  
 
 ---
 
