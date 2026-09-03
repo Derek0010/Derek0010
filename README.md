@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Derek Nelson 👋
 
 🎓 Programmer Analyst undergraduate at Wayne State College
 💻 Interested in Software Development
